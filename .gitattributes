@@ -10,8 +10,5 @@
 /Makefile export-ignore
 /NOTE.DEVELOPMENT.NOV.2011.md export-ignore
 /NOTE.THENETCIRCLE.md export-ignore
-/benchmark export-ignore
-/demo export-ignore
-/doc export-ignore
 /phpunit.xml.dist export-ignore
 /tests export-ignore
